@@ -15,12 +15,12 @@ It provides a structured schema to manage **users, destinations, tour packages, 
 
 Tours\_Travels\_DB/
 │
-├── schema.sql            # Database creation and table definitions
-├── constraints.sql       # Constraints and validations
-├── indexes.sql           # Indexes for faster queries
-├── seed\_data.sql         # Initial data population (sample users, packages, bookings, etc.)
-├── sample\_queries.sql    # Example SQL queries to interact with the database
-└── README.md             # Project documentation
+├── schema            # Database creation and table definitions
+├── constraints       # Constraints and validations
+├── indexes           # Indexes for faster queries
+├── data              # Initial data population (sample users, packages, bookings, etc.)
+├── queries           # Example SQL queries to interact with the database
+└── README.md         # Project documentation
 
 ````
 
